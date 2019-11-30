@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "261023597958",
+    "firebase_url": "https://dealslegco.firebaseio.com",
+    "project_id": "dealslegco",
+    "storage_bucket": "dealslegco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261023597958:android:8deb647488eac2c4",
+        "android_client_info": {
+          "package_name": "com.dealslegco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261023597958-inve3n3uu7bofcij9c1qqtkdiioe96rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9FhsDObd2DIlXCE3I8_6_vEc-2vuGPvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261023597958:android:a16e0c13fd6a1758",
+        "android_client_info": {
+          "package_name": "com.mysdelkikzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261023597958-inve3n3uu7bofcij9c1qqtkdiioe96rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9FhsDObd2DIlXCE3I8_6_vEc-2vuGPvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

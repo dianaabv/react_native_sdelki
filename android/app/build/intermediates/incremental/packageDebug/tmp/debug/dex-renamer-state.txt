@@ -1,0 +1,4 @@
+#Mon Jun 03 08:48:26 ALMT 2019
+base.0=/Users/diana/Desktop/NativeBase-KitchenSink/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
